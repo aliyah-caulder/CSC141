@@ -1,0 +1,1 @@
+Make different typos in the hello_world code and observe the errors that occur.
