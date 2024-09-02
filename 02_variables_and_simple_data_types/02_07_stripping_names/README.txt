@@ -1,0 +1,2 @@
+Use a variable to represent a person's name, and include whitespace at the beginning and end of the name. Print the name, then
+print using the lstrip(), rstrip(), and strip() functions. Use \t and \n at least once in the code.

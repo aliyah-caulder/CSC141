@@ -1,0 +1,1 @@
+Enter "import this" into a python terminal session and skim through the additional principles.

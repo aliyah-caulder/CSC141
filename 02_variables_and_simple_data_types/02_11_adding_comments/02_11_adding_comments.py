@@ -1,0 +1,1 @@
+# Comments have been added to 02_03_personal_message and 02_07_stripping_names.

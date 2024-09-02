@@ -1,0 +1,1 @@
+Use a variable to represent your favorite number. Create a message that reveals your favorite number, then print that message.
