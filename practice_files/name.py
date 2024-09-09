@@ -1,3 +1,4 @@
+#practice for chapter 2
 name = "ada lovelace"
 print(name.title())
 print(name.upper())

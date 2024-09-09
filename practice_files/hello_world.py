@@ -1,3 +1,4 @@
+#practice for chapter 1
 message = "Hello Python world!"
 print(message)
 
