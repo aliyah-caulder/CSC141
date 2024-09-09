@@ -1,1 +1,0 @@
-Find a quote from a famous person, then print the quote and the name of the author.

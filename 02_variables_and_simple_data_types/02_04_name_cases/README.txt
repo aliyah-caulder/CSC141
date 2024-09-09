@@ -1,1 +1,0 @@
-Use a variable to represent a person's name, then print that name in uppercase, lowercase, and title case.

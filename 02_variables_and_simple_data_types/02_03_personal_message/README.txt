@@ -1,1 +1,0 @@
-Use a variable to represent a name, and print a simple message to that person.
