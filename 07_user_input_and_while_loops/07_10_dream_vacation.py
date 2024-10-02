@@ -1,3 +1,5 @@
+# adds information to a dictionary using while loop.
+
 responses = {}
 
 polling_active = True
