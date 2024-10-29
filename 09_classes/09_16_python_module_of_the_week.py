@@ -1,1 +1,1 @@
-# Read about the os module ay Python Module of the Week.
+# Read about the os module at Python Module of the Week.
