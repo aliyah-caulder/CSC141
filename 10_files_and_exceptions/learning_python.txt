@@ -1,0 +1,4 @@
+In Python you can print text.
+In Python you can accept user input.
+In Python you can loop code.
+In Python you can store variables.
